@@ -1,0 +1,8 @@
+{
+    "name": "inter/galax",
+    "autoload":{
+        "psr-4":{
+            "App\\":"app"
+        }
+    }
+}
