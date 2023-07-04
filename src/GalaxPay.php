@@ -1,5 +1,5 @@
 <?php
-    namespace App\GalaxPay;
+    namespace Aactary\InterGalax\GalaxPay;
 
     class GalaxPay{
         public $baseUrl = "https://api.sandbox.cloud.galaxpay.com.br/v2"; 
