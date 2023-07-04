@@ -6,6 +6,7 @@ Classe de conexão com API do GalaxPay, faz requisições via GET, POST, PUT e D
 ## Uso
 ```php
 <?php
+  require 'vendor/autoload.php';
   use Aactary\InterGalax\GalaxPay;
 
   $id = "5473";
