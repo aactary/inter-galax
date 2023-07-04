@@ -9,7 +9,7 @@
     }],
     "autoload":{
         "psr-4":{
-            "AriDev\\InterGalax\\":"src/"
+            "Aactary\\InterGalax\\":"src/"
         }
     },
     "require":{
