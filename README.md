@@ -4,7 +4,7 @@ Classe de conexão com API do GalaxPay, faz requisições via GET, POST, PUT e D
 `composer require aactary/inter-galax`
 
 ## Uso
-```
+```php
 <?php
   use Aactary\InterGalax\GalaxPay;
 
